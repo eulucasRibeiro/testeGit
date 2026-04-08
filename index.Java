@@ -11,6 +11,8 @@ public static void main(String[] args) {
         System.out.println("The number is negative");
     } else if (number == 0) {
         System.out.println("The number is zero");
+    } else if (number == 2) {
+        System.out.println("The number is two");
     } else {
         System.out.println("The number is positive");
     }
